@@ -1,0 +1,32 @@
+{
+  "Custom Importer details": {
+    "ns_key": "custom.custom_importer_details",
+    "type": "Multi-line text",
+    "is_list": false
+  },
+  "Custom Composition": {
+    "ns_key": "",
+    "type": "",
+    "is_list": false
+  },
+  "Pack Variant": {
+    "ns_key": "custom.pack_variant",
+    "type": "Single line text",
+    "is_list": true
+  },
+  "Best Used With Product": {
+    "ns_key": "custom.best_used_with_product",
+    "type": "Product",
+    "is_list": true
+  },
+  "Tag": {
+    "ns_key": "",
+    "type": "",
+    "is_list": false
+  },
+  "Indication3": {
+    "ns_key": "",
+    "type": "",
+    "is_list": false
+  }
+}

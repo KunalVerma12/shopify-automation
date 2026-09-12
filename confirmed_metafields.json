@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Available Coupons",
+    "ns_key": "",
+    "type": "List",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/244641005881"
+  },
+  {
+    "name": "Pack Of Variant",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/228231250233"
+  },
+  {
+    "name": "Custom Importer details",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800706361"
+  },
+  {
+    "name": "Custom Country of Origin",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800673593"
+  },
+  {
+    "name": "Prescription Required",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/163422535993"
+  },
+  {
+    "name": "Skin Type Filter",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/204248383801"
+  },
+  {
+    "name": "Product Type Filter",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/162824618297"
+  },
+  {
+    "name": "Ingredient Filter",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159896731961"
+  },
+  {
+    "name": "New Key Ingredient",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159527600441"
+  },
+  {
+    "name": "New Key Benefits",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159527272761"
+  },
+  {
+    "name": "New Indications",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159527174457"
+  },
+  {
+    "name": "Best Used With Product",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/151084826937"
+  },
+  {
+    "name": "Brand Name",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/6986858809"
+  },
+  {
+    "name": "Pack Variant",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/167960478009"
+  },
+  {
+    "name": "Custom Side Effects",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800968505"
+  },
+  {
+    "name": "Custom Composition",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800837433"
+  },
+  {
+    "name": "Custom Storage",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800804665"
+  },
+  {
+    "name": "Custom Mfg/Marketer details",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800739129"
+  },
+  {
+    "name": "Faqs",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/162819440953"
+  },
+  {
+    "name": "How To Use",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159527633209"
+  },
+  {
+    "name": "Product Quantity",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/153206423865"
+  },
+  {
+    "name": "Indication3",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/61934633273"
+  },
+  {
+    "name": "Indication2",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/61934600505"
+  },
+  {
+    "name": "Indication1",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/60616180025"
+  },
+  {
+    "name": "Tag",
+    "ns_key": "",
+    "type": "",
+    "is_list": false,
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/4492722489"
+  }
+]

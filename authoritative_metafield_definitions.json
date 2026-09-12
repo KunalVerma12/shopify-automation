@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Available Coupons",
+    "namespace_and_key": "custom.available_coupons",
+    "type": "Add description",
+    "is_list": true,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/244641005881"
+  },
+  {
+    "name": "Pack Of Variant",
+    "namespace_and_key": "custom.pack_of_variant",
+    "type": "True or false",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/228231250233"
+  },
+  {
+    "name": "Custom Importer details",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800706361"
+  },
+  {
+    "name": "Custom Country of Origin",
+    "namespace_and_key": "custom.custom_country_of_origin",
+    "type": "Multi-line text",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800673593"
+  },
+  {
+    "name": "Prescription Required",
+    "namespace_and_key": "custom.prescription_required",
+    "type": "True or false",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/163422535993"
+  },
+  {
+    "name": "Skin Type Filter",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/204248383801"
+  },
+  {
+    "name": "Product Type Filter",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/162824618297"
+  },
+  {
+    "name": "Ingredient Filter",
+    "namespace_and_key": "custom.ingredient",
+    "type": "Single line text",
+    "is_list": true,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159896731961"
+  },
+  {
+    "name": "New Key Ingredient",
+    "namespace_and_key": "custom.new_key_ingredientss",
+    "type": "Single line text",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159527600441"
+  },
+  {
+    "name": "New Key Benefits",
+    "namespace_and_key": "custom.new_key_benefit",
+    "type": "Single line text",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159527272761"
+  },
+  {
+    "name": "New Indications",
+    "namespace_and_key": "custom.new_indications",
+    "type": "Single line text",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159527174457"
+  },
+  {
+    "name": "Best Used With Product",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/151084826937"
+  },
+  {
+    "name": "Brand Name",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/6986858809"
+  },
+  {
+    "name": "Pack Variant",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/167960478009"
+  },
+  {
+    "name": "Custom Side Effects",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800968505"
+  },
+  {
+    "name": "Custom Composition",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800837433"
+  },
+  {
+    "name": "Custom Storage",
+    "namespace_and_key": "custom.custom_storage",
+    "type": "Multi-line text",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800804665"
+  },
+  {
+    "name": "Custom Mfg/Marketer details",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/165800739129"
+  },
+  {
+    "name": "Faqs",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/162819440953"
+  },
+  {
+    "name": "How To Use",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/159527633209"
+  },
+  {
+    "name": "Product Quantity",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/153206423865"
+  },
+  {
+    "name": "Indication3",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/61934633273"
+  },
+  {
+    "name": "Indication2",
+    "namespace_and_key": "custom.indication2",
+    "type": "Single line text",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/61934600505"
+  },
+  {
+    "name": "Indication1",
+    "namespace_and_key": "custom.problems_solved_indications",
+    "type": "Single line text",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/60616180025"
+  },
+  {
+    "name": "Tag",
+    "namespace_and_key": "",
+    "type": "",
+    "is_list": false,
+    "description": "",
+    "href": "https://admin.shopify.com/store/sarinskin/settings/custom_data/product/metafields/4492722489"
+  }
+]
